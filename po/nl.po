@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-calendar-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-09 15:20+0000\n"
-"PO-Revision-Date: 2019-02-11 20:37+0000\n"
+"PO-Revision-Date: 2019-02-12 20:31+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <https://translate.ubports.com/projects/ubports/"
 "calendar-app/nl/>\n"
@@ -55,7 +55,7 @@ msgstr "Geen reactie"
 
 #: ../qml/EventDetails.qml:437 ../qml/NewEvent.qml:585
 msgid "Description"
-msgstr "Beschrijving"
+msgstr "Omschrijving"
 
 #: ../qml/EventDetails.qml:464 ../qml/NewEvent.qml:797 ../qml/NewEvent.qml:814
 msgid "Reminder"
