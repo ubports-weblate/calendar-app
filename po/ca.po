@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-calendar-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-09 15:20+0000\n"
-"PO-Revision-Date: 2019-02-12 20:31+0000\n"
+"PO-Revision-Date: 2019-03-10 00:00+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/ubports/"
 "calendar-app/ca/>\n"
@@ -370,11 +370,11 @@ msgstr[1] "%1 esdeveniments de tot el dia"
 #. It's used in the header of the month and week views
 #: ../qml/DayView.qml:126 ../qml/WeekView.qml:157 ../qml/MonthView.qml:78
 msgid "MMMM yyyy"
-msgstr "MMMM 'de' yyyy"
+msgstr "MMMM yyyy"
 
 #: ../qml/WeekView.qml:138 ../qml/MonthView.qml:73
 msgid "%1 %2"
-msgstr "%1 del %2"
+msgstr "%1 %2"
 
 #: ../qml/WeekView.qml:145 ../qml/WeekView.qml:146
 msgid "MMM"
